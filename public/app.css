@@ -1,0 +1,18 @@
+div {
+  color: blue;
+}
+
+.me {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  display: block;
+}
+
+.icon {
+  height: 40px;
+  width: 45px;
+  border-radius: 10px;
+  padding: 5px;
+  display: inline-block;
+}
